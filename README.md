@@ -153,9 +153,8 @@ pip install -r requirements.txt
 
 
 ### Run Streamlit App
-
-
-streamlit run app.py
+## LIVE DEMO:
+https://fake-news-detection-a3bwgrdy2krydzvpl4fqe2.streamlit.app/
 
 ## 📷 Sample Prediction
 
